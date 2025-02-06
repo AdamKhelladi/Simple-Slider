@@ -1,4 +1,4 @@
-// Slider
+// Slider Task
 
 let sliderImages = Array.from(
   document.querySelectorAll(".slider-container img")
