@@ -53,6 +53,8 @@ paginationElement.addEventListener("click", function (event) {
 
 theChecker();
 
+// Functions
+
 function theChecker() {
   slideNumberElement.textContent = `Slide #${currentSlide} of ${sliderImages.length}`;
   removeAllActives();
