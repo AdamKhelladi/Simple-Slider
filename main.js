@@ -1,6 +1,5 @@
 // Slider Project
 
-
 let sliderImages = Array.from(
   document.querySelectorAll(".slider-container img")
 );
